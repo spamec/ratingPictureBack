@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "HONOTRON",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 2,
+    "name": "OHMNET",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 3,
+    "name": "ACCUPHARM",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 4,
+    "name": "STRALOY",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 5,
+    "name": "TRANSLINK",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 6,
+    "name": "DIGIGENE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 7,
+    "name": "COMTRAIL",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 8,
+    "name": "APEXIA",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 9,
+    "name": "VORTEXACO",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 10,
+    "name": "GEEKWAGON",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 11,
+    "name": "ZERBINA",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 12,
+    "name": "DIGIAL",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 13,
+    "name": "WATERBABY",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 14,
+    "name": "DATAGENE",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 15,
+    "name": "FUTURIZE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 16,
+    "name": "BISBA",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 17,
+    "name": "OLUCORE",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 18,
+    "name": "AUSTECH",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 19,
+    "name": "URBANSHEE",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 20,
+    "name": "COFINE",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 21,
+    "name": "DIGIQUE",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 22,
+    "name": "EZENTIA",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 23,
+    "name": "VENDBLEND",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 24,
+    "name": "ZENTRY",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 25,
+    "name": "RAMJOB",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 26,
+    "name": "SUPREMIA",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 27,
+    "name": "GAPTEC",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 28,
+    "name": "SOPRANO",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 29,
+    "name": "SENSATE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 30,
+    "name": "NEOCENT",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 31,
+    "name": "STOCKPOST",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 32,
+    "name": "COMDOM",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 33,
+    "name": "BITENDREX",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 34,
+    "name": "IZZBY",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 35,
+    "name": "HYPLEX",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 36,
+    "name": "COMTEXT",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 37,
+    "name": "RODEMCO",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 38,
+    "name": "TERAPRENE",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 39,
+    "name": "CUBIX",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 40,
+    "name": "XYQAG",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 41,
+    "name": "COGENTRY",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 42,
+    "name": "SNACKTION",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 43,
+    "name": "RONELON",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 44,
+    "name": "EARTHWAX",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 45,
+    "name": "ZENSUS",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 46,
+    "name": "SINGAVERA",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 47,
+    "name": "XSPORTS",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 48,
+    "name": "ZIALACTIC",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 49,
+    "name": "OPTICON",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 50,
+    "name": "ECOSYS",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 51,
+    "name": "MARTGO",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 52,
+    "name": "ANDRYX",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 53,
+    "name": "CALCULA",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 54,
+    "name": "EMTRAK",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 55,
+    "name": "GLOBOIL",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 56,
+    "name": "MAGNEMO",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 57,
+    "name": "ACCUFARM",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 58,
+    "name": "SOLAREN",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 59,
+    "name": "EXOZENT",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 60,
+    "name": "CALCU",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 61,
+    "name": "OBLIQ",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 62,
+    "name": "BUGSALL",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 63,
+    "name": "COMTRACT",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 64,
+    "name": "ACUMENTOR",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 65,
+    "name": "VALREDA",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 66,
+    "name": "REALYSIS",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 67,
+    "name": "REVERSUS",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 68,
+    "name": "SCENTY",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 69,
+    "name": "SHOPABOUT",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 70,
+    "name": "BITREX",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 71,
+    "name": "PASTURIA",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 72,
+    "name": "INSURON",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 73,
+    "name": "DECRATEX",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 74,
+    "name": "GRACKER",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 75,
+    "name": "EBIDCO",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 76,
+    "name": "LUNCHPOD",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 77,
+    "name": "BITTOR",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 78,
+    "name": "HOTCAKES",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 79,
+    "name": "COMCUBINE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 80,
+    "name": "AQUASURE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 81,
+    "name": "HYDROCOM",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 82,
+    "name": "NETROPIC",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 83,
+    "name": "CORPORANA",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 84,
+    "name": "RADIANTIX",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 85,
+    "name": "ADORNICA",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 86,
+    "name": "GEEKY",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 87,
+    "name": "POLARAX",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 88,
+    "name": "PHARMACON",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 89,
+    "name": "SENMAO",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 90,
+    "name": "APPLIDECK",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 91,
+    "name": "PHUEL",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 92,
+    "name": "ISODRIVE",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 93,
+    "name": "MANGLO",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 94,
+    "name": "CORIANDER",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 95,
+    "name": "PARLEYNET",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 96,
+    "name": "QUADEEBO",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 97,
+    "name": "ENTALITY",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 98,
+    "name": "EXTRAGENE",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 99,
+    "name": "PAPRIKUT",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 100,
+    "name": "INSURITY",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 101,
+    "name": "SUSTENZA",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 102,
+    "name": "PYRAMI",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 103,
+    "name": "KIDGREASE",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 104,
+    "name": "TROLLERY",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 105,
+    "name": "KINETICUT",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 106,
+    "name": "WEBIOTIC",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 107,
+    "name": "AMRIL",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 108,
+    "name": "UNISURE",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 109,
+    "name": "INVENTURE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 110,
+    "name": "GRAINSPOT",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 111,
+    "name": "DOGSPA",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 112,
+    "name": "VITRICOMP",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 113,
+    "name": "DIGIGEN",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 114,
+    "name": "AQUAFIRE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 115,
+    "name": "QUAILCOM",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 116,
+    "name": "QUONK",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 117,
+    "name": "BLUEGRAIN",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 118,
+    "name": "GEEKOLOGY",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 119,
+    "name": "EXOSTREAM",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 120,
+    "name": "GENMY",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 121,
+    "name": "CENTURIA",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 122,
+    "name": "AFFLUEX",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 123,
+    "name": "SEALOUD",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 124,
+    "name": "NEXGENE",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 125,
+    "name": "MULTRON",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 126,
+    "name": "ORBAXTER",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 127,
+    "name": "DOGNOSIS",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 128,
+    "name": "PYRAMAX",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 129,
+    "name": "INSECTUS",
+    "categoryId": 2,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 130,
+    "name": "SUPPORTAL",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 131,
+    "name": "ACUSAGE",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 132,
+    "name": "ENAUT",
+    "categoryId": 1,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 133,
+    "name": "SYNKGEN",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 134,
+    "name": "EARWAX",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 135,
+    "name": "PATHWAYS",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 136,
+    "name": "ISOLOGICA",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 137,
+    "name": "ZENTIME",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 138,
+    "name": "MUSAPHICS",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 139,
+    "name": "EXOTERIC",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 140,
+    "name": "EVEREST",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 141,
+    "name": "JAMNATION",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 142,
+    "name": "DATAGEN",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 143,
+    "name": "EXODOC",
+    "categoryId": 5,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 144,
+    "name": "BARKARAMA",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 145,
+    "name": "SYNTAC",
+    "categoryId": 7,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 146,
+    "name": "JUNIPOOR",
+    "categoryId": 6,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 147,
+    "name": "TERRASYS",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 148,
+    "name": "SIGNIDYNE",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 149,
+    "name": "NIQUENT",
+    "categoryId": 4,
+    "picture": "https://picsum.photos/800"
+  },
+  {
+    "id": 150,
+    "name": "SNIPS",
+    "categoryId": 3,
+    "picture": "https://picsum.photos/800"
+  }
+]
