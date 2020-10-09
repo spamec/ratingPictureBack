@@ -1,16 +1,9 @@
-// import * as rxjs from 'rxjs';
-
-// import {Observable} from "rxjs";
-
-// import {Subject} from "rxjs";
-
 const rxjs = require("rxjs");
-// const {Observable} = rxjs;
 const url = require('url');
-// const products = require('./jsondb/products.json');
 const fs = require('fs');
 const logger = require('./log')(module);
 const rating = require('./rating');
+const chat = require('./chat');
 
 function sendStream(inputStream, outputStream) {
     inputStream.pipe(outputStream);
@@ -101,6 +94,13 @@ module.exports = function (request, response) {
                 case '/api/product/subscribe/':
                     rating.subscribe(request, response);
                     break;
+                case '/api/chat/subscribe/':
+                    chat.subscribe(request, response);
+                    break;
+                case '/api/chat/history/':
+                    const currentHistory = chat.history();
+                    response.end(JSON.stringify(currentHistory));
+                    break;
                 default:
                     const message = 'GET: Page not found!';
                     logger.error(`Error ${message}`)
@@ -117,11 +117,28 @@ module.exports = function (request, response) {
                     subscription.add(readStream$(request).subscribe(data => {
                             rating.publish(data)
                             response.end();
+                            subscription.unsubscribe();
                         },
                         (err) => {
                             logger.error(err);
                             response.statusCode = (err.code) ? err.code : 400;
                             response.end(JSON.stringify(err.message))
+                            subscription.unsubscribe();
+                        }))
+
+                    break;
+                case '/api/chat/push/':
+                    const subscriptionPush = new rxjs.Subscription();
+                    subscriptionPush.add(readStream$(request).subscribe(data => {
+                            chat.publish(data)
+                            response.end();
+                            subscriptionPush.unsubscribe();
+                        },
+                        (err) => {
+                            logger.error(err);
+                            response.statusCode = (err.code) ? err.code : 400;
+                            response.end(JSON.stringify(err.message));
+                            subscriptionPush.unsubscribe();
                         }))
 
                     break;
